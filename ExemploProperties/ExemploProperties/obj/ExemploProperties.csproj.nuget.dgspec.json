@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ws-all\\ws-vs2019\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\git\\RevisaoPOO\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj": {}
   },
   "projects": {
-    "D:\\ws-all\\ws-vs2019\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj": {
+    "C:\\Users\\mathe\\Desktop\\git\\RevisaoPOO\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ws-all\\ws-vs2019\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\git\\RevisaoPOO\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj",
         "projectName": "ExemploProperties",
-        "projectPath": "D:\\ws-all\\ws-vs2019\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\git\\RevisaoPOO\\ExemploProperties\\ExemploProperties\\ExemploProperties.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "D:\\ws-all\\ws-vs2019\\ExemploProperties\\ExemploProperties\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\git\\RevisaoPOO\\ExemploProperties\\ExemploProperties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

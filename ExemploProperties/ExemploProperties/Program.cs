@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ExemploProperties
 {
@@ -6,7 +7,11 @@ namespace ExemploProperties
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Produto p = new Produto("TV", 500.00, 10);
+
+            p.Nome = "TV 4K";
+
+            Console.WriteLine(p.Nome);
         }
     }
 }
