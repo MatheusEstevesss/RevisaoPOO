@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.exe
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.deps.json
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.runtimeconfig.json
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.dll
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\bin\Debug\netcoreapp3.1\ProdutosOtimizado.pdb
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.dll
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.pdb
+D:\ws-all\ws-vs2019\ProdutosOtimizado\ProdutosOtimizado\obj\Debug\netcoreapp3.1\ProdutosOtimizado.genruntimeconfig.cache

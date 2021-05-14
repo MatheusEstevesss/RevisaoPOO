@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+D:\ws-all\ws-vs2019\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache

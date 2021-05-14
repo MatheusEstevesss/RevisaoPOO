@@ -1,0 +1,12 @@
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.exe
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.deps.json
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.json
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.dll
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.pdb
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.dll
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.pdb
+D:\ws-all\ws-vs2019\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.genruntimeconfig.cache

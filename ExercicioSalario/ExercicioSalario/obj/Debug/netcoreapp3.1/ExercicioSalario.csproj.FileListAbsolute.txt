@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.exe
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.deps.json
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.runtimeconfig.json
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.dll
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.pdb
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.dll
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.pdb
+D:\ws-all\ws-vs2019\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.exe
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.deps.json
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.runtimeconfig.json
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.dll
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\bin\Debug\netcoreapp3.1\ExercicioDollar.pdb
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.dll
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.pdb
+D:\ws-all\ws-vs2019\ExercicioDollar\ExercicioDollar\obj\Debug\netcoreapp3.1\ExercicioDollar.genruntimeconfig.cache

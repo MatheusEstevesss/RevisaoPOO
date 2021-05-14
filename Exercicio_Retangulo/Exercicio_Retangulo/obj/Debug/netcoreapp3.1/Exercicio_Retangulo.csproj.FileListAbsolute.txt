@@ -1,0 +1,12 @@
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.exe
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.deps.json
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.runtimeconfig.json
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.dll
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\bin\Debug\netcoreapp3.1\Exercicio_Retangulo.pdb
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.dll
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.pdb
+D:\ws-all\ws-vs2019\Exercicio_Retangulo\Exercicio_Retangulo\obj\Debug\netcoreapp3.1\Exercicio_Retangulo.genruntimeconfig.cache

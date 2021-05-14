@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.exe
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.deps.json
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.runtimeconfig.json
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.dll
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\bin\Debug\netcoreapp3.1\ExemploCirculo.pdb
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.dll
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.pdb
+D:\ws-all\ws-vs2019\ExemploCirculo\ExemploCirculo\obj\Debug\netcoreapp3.1\ExemploCirculo.genruntimeconfig.cache

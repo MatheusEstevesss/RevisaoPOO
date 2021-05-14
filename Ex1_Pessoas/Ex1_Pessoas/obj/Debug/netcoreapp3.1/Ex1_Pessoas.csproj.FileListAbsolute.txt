@@ -1,0 +1,13 @@
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.exe
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.deps.json
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.runtimeconfig.json
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.runtimeconfig.dev.json
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.dll
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\bin\Debug\netcoreapp3.1\Ex1_Pessoas.pdb
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.csprojAssemblyReference.cache
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.AssemblyInfoInputs.cache
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.AssemblyInfo.cs
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.csproj.CoreCompileInputs.cache
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.dll
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.pdb
+D:\ws-all\ws-vs2019\Ex1_Pessoas\Ex1_Pessoas\obj\Debug\netcoreapp3.1\Ex1_Pessoas.genruntimeconfig.cache

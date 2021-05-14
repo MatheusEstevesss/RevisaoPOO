@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExemploCirculo/1.0.0": {
+        "runtime": {
+          "ExemploCirculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploCirculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
