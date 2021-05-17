@@ -1,0 +1,13 @@
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.exe
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.deps.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.runtimeconfig.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.dll
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\bin\Debug\netcoreapp3.1\ExemploMatrizes.pdb
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.AssemblyInfo.cs
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.dll
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.pdb
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExemploMatrizes\ExemploMatrizes\obj\Debug\netcoreapp3.1\ExemploMatrizes.genruntimeconfig.cache
