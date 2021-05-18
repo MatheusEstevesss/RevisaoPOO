@@ -1,0 +1,13 @@
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.exe
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.deps.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.runtimeconfig.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.dll
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\bin\Debug\netcoreapp3.1\ExercicioMatrix.pdb
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.AssemblyInfo.cs
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.dll
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.pdb
+C:\Users\mathe\Desktop\git\RevisaoPOO\_ExemploMatrizes\ExercicioMatrix\ExercicioMatrix\obj\Debug\netcoreapp3.1\ExercicioMatrix.genruntimeconfig.cache
