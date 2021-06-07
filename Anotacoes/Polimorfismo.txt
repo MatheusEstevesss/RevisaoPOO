@@ -1,0 +1,15 @@
+O polimorfismo permite que objetos do mesmo tipo apontem para objettos de tipos especificos diferentes 
+Exemplo 
+
+	Account acc1 = new Account(1001, "Alex", 500);
+        Account acc2 = new SavingAccounts(1002, "Anna", 500, 0.01);
+
+Neste caso temos dois objetos do tipo Account, porém eles apontam para objetos diferentes como por exemplo
+acc2 está apontando para um SavingAccount
+
+Podendo ter assim comportamentos diferentes
+
+A classe Accout poderá ter métodos diferentes da SavingAccount e vise e versa, possuindo assim diferentes
+comportamentos para o mesmo tipo de objeto.
+
+O compilador diferencia o tipo de objeto em tempo de execução, isso caracteriza o polimorfismo
