@@ -1,0 +1,82 @@
+Properties
+
+	Definições de métodos encapsulados, porém com uma sintaxe similar a de atríbutos e não de métodos.
+	Link referencia:
+	https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/properties
+
+	Funcionam como "acessadores"
+
+
+	Como antigamente funcionava nós precisariamos criar um metodo get e set e chamarmos esse método no programa principal
+		Exemplo 
+			private string _nome;
+
+			public string GetNome() {
+				return _nome;
+			}
+			
+			public void SetNome(string nome) {
+				_nome = nome;
+			}
+			
+		E para chamarmos isso na classe Program.cs, precisaremos chamar esses métodos da seguinte maneira:
+		
+			Produto p = new Produto();
+			Console.ReadLine(p.GetNome());
+
+			p.SetNome("TV 4K");
+			Console.ReadLine(p.GetNome()); //Agora o nome estará alterado para o que foi definido acima
+
+
+Porém as Properties facilitame o acesso nos permitindo acessar isso como c fosse um atributo 
+	Exemplo: 
+		private string _nome;
+
+		public string Nome 
+		{
+			get { return _nome; }
+			set {
+				if(value != null && value.Length > 1)
+					{
+						_nome = value;//Este value substitui o parâmetro que estaria sendo criado no método Set
+					}
+			}
+		}	
+
+	E para chamarmos isso na classe Program.cs utilizamos como c fosse apenas um atributo
+		
+		Produto p = new Produto("TV", 500.00, 10);
+		p.Nome = "TV 4K"// para substituirmos o nome
+		Console.Write(p.Nome)// para mostrarmos o nome
+
+
+	Também existe a AutoProperties que pode ser usada de maneira simplificado quando o atributo não tem uma logica unica 
+dentro da apliclação
+		Exemplo 
+
+			public string Preco { get; private set; }
+
+		Isto funciona do mesmo jeito na hora de chamar no Program.cs e o método set continua sendo private
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

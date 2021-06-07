@@ -1,0 +1,73 @@
+Encapsulamento (Primeiro pilar da POO)
+	É um principio que pode esconder detalhes de implementação, expondo apenas operações seguras que possam ser modificadas
+		
+	Dica de ouro: O objeto deve sempre estar em um estado consistente, e a própria classe deve garantir isso
+
+Exemplo 
+	private int _quantidade; 
+		private = Garante que esse atributo não poderá ser acessado por outra classe além da que o atributo foi criado 
+		(não poderá ser alterado fora desta classe)
+        
+		Quando formor trabalhar com um atributo private adotamos outro método para nomea-los, comecando com _ e o seu 
+		nome será com letra minuscula ex: _quantidade
+
+
+
+	Como o atributo está como private não conseguiriamos nem mostrar o valor disso para o usuario para isso definimos o 
+	metodo "GetQuantidade" e para tornar possível que o usuário mude o valor disso fora da class definimos o método 
+	"SetQuantidade". Criamos este método para que torne manual o acesso ao nosso atributo
+	Criando esse método tbm podemos definir alguma logica na hora de definirmos este dado.
+
+		public int GetQuantidade() //como o atributo está como private, não poderíamos nem mostrar na tela o valor deste atributo, para isso usa-se o "Get;Set;" para podermos mostrar esse valor ao usuário
+        	{
+            		//Neste caso como estamos criando o método Get queremos apenas pegar o valor desta váriavel e mostrar na tela, MAS AINDA É IMPOSSIBILITADO DE ALTERAR ESTE ATRIBUTO POIS NÃO TEMOS O "SET"
+            		return _quantidade;
+        	}
+
+        	public void SetQuantidade(int quantidade)
+        	{
+            		//Neste caso tornamos possível alterar o valor do atributo quantidade fora da classe em que ele foi criado. ESTE É O MÉTODO "SET"
+            		_quantidade = quantidade;
+        	}
+
+
+	Exemplo: adicionando uma lógica na hora de adicionar um dado ao atributo 
+	
+		private string _nome;
+
+		public void SetNome(string nome) {
+			if (nome!= null && nome.Length > 1) {
+				//neste caso só aceitaremos que seja adicionado o nome ao nosso atribudo se o nome 
+				//não for nullo e possuir + de 1 caractere
+				_nome = nome;
+			}			
+		}
+
+
+	Para não permitimos que os atributos sejam alterados de jeito nenhum, não precisamos implementar o método "Set" 
+neste caso o atributo só será modificado dentro da sua classe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

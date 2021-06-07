@@ -1,0 +1,183 @@
+Construtor 
+	Operação especial, que executa no momento que o objeto é instanciado 
+
+Uso 
+	Inicia valor dos atributos 
+	Permitir ou obrigar que o objeto receba dados quando é instanciado
+
+Caso não seja especificado um construtor personalizado a classe disponibiliza um construtor padrão 
+	Exemplo:. Construtor cons = new Construtor();
+
+Uma classe pode ter mais de um construtor pelo conceito de sobrecarga
+
+Quando usar ?
+	Se pergunte c faz sentido ter um valor vazio, por exemplo ?
+		Faz sentido uma pessoa sem nome ? 
+		Faz sentido um produto sem preço ? 
+
+	Caso a resposta seja não, adicionamos um construtor para quando instanciarmos a classe ter um valor e não o 
+default.
+	Isso torna obrigatório que o programador insira esses valores. Para que não fiquem com os valores nulls.
+
+Exemplo criação de um construtor 
+
+	class Produto
+    	{
+        	public string Nome;
+        	public double Preco;
+        	public int Quantidade;
+
+        	//Criação de um construtor, o nome do contrutor deve ter o mesmo nome da classe
+        	public Produto(string nome, double preco, int quantidade) //estamos dizendo que na hora de instanciarmos um produto precisamos passar todos esses parâmetros
+        	{
+            		Nome = nome;
+            		Preco = preco;
+            		Quantidade = quantidade;
+        	}
+
+	}
+
+
+Ao criarmos um construtor e passarmo essse parametros como obrigatorio 
+no Program.cs precisaremos de váriveis auxiliares para lermos o que o usuario digitar e depois passar isso como os parâmetros 
+de nosso construtor 
+
+Exemplo 
+	Console.WriteLine("Entre os dados do produto");
+
+            Console.Write("Nome: ");
+            string nome = Console.ReadLine();
+
+            Console.Write("Preço: ");
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Quantidade no estoque: ");
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto p = new Produto(nome, preco, quantidade);
+
+Me agradeça Gato do futuro, de nada.
+
+
+Sobrecarga (de construtores)
+	Pode oferecer recurso de classe com mesmo nome porém com diferentes parêmetros.
+
+	Funciona como um construtor, podemos apenas retirar ou acrescentar os parâmetros que queremos colocar.
+	
+Exemplo:
+	class Produto
+    	{
+        	public string Nome;
+        	public double Preco;
+        	public int Quantidade;
+
+        	//Criação de outro construtor para exemplificar o conceito de Sobrecarga.
+        	public Produto(string nome, double preco)//Neste caso queremos passar somente o nome e o preco, adicionando como padrão o valor 0 a Quantidade. O valor 0 vem como default então não precisamos colocar Quantidade = 0;
+        	{
+            		Nome = nome;
+            		Preco = preco;
+        	}
+
+	}
+
+No Program.cs também podemos mudar algumas coisas na hora de instanciar esse objeto
+	Exemplo sem valor(neste caso como definido no nosso método o valor será 0):
+		Produto p = new Produto(nome, preco);
+	
+	Exemplo usando o primeiro construtor criado para podermos passar um valor de quantidade
+		Produto p = new Produto(nome, preco, 5);// Neste caso utilizaremos o "primeiro" construtor que fizemos
+(Exemplo que está na parte de construtores) para passar o valor de quantidade como sendo 5.
+	
+
+Outro método de inicializarmos os objetos, a linguagem c# nos permite isso 
+Na hora de inicializarmos o objeto podemos abrir {} e passar os valores que queremos
+	Exemplos 
+		Produto p = new Produto {
+			Nome = "TV",
+			Preco = 900.0,
+			Quantidade = 0
+		};
+		
+		Produto p2 = new Produto() {
+			Nome = "TV",
+			Preco = 900.0,
+			Quantidade = 5
+		};
+
+Funciona mesmo se a classe não possui construtores expecificados.
+
+É opcional qual usar, porém prefiro utilizar o Exemplo mostrado no "Construtor".
+
+Caso a classe defina que haja apenas 1 construtor, na hora de instanciarmos desse jeito, irá dar um erro, pois precisaremos 
+usar o construtor especificado na classe.
+
+
+Palavra This
+	Referencia ao proprio objeto
+
+Usos
+	Diferencia atributos de váriaveis locais (muito utilizado na linguagem Java).
+	Referencia outro construtor em um construtor.
+	Passa o próprio objeto como argumento na chamada.
+
+	Exemplos
+
+		Diferencia atributos de váriaveis locais (no c# não sofre muito com isso pois usamo o ChamelCase para 
+diferencia-los).
+		
+			public Produto(string Nome, double Preco, int Quantidade) //estamos dizendo que na hora de instanciarmos um produto precisamos passar todos esses parâmetros
+        		{
+            			this.Nome = nome;
+            			this.Preco = preco;
+            			this.Quantidade = quantidade;
+        		}
+
+Neste caso usamos a palavra this para o programa reconhecer o que é um atributo da classe e o que é uma váriavel local. Pois 
+ambos começam com letra maiúscula.
+
+Porém no c#, adotamos a letra maíuscula na criação de um objeto e letra minúscula na criação de uma váriavel, neste caso
+o certo a escrever-se seria public Produto(string nome, double preco, int quantidade) Assim não precisariamos passar
+a palavra this
+
+
+
+
+
+		Referencia outro construtor em um constutor
+
+			public Produto(string nome, double preco) //estamos dizendo que na hora de instanciarmos um produto precisamos passar todos esses parâmetros
+        		{
+            			this.Nome = nome;
+            			this.Preco = preco;
+        		}
+
+			public Produto(string Nome, double Preco, int Quantidade): this (nome, preco) //o this neste caso serve para dizermos para reaproveitar os valores do construtor já descrito passando como novo apenas a Quantidade
+        		{
+            			this.Quantidade = quantidade;
+        		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

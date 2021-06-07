@@ -1,0 +1,13 @@
+Tipo estruturado que pode conter membros:
+
+Atributos: (dados/campos)
+Metodos: (funções/operações) - o que essa classe irá realizar 
+
+Toda clase é uma subclasse de Object (toda classe é um object e possui certos métodos)
+
+GetType = retorna o tipo do objeto 
+Equals = Compara se o objeto é igual ao outro 
+GetHashCode = retorna um código hash de objeto 
+ToString = converte o objeto para string
+
+cassio@cassiodeveloper.com.br
