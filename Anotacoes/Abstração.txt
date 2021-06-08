@@ -1,0 +1,20 @@
+NÃO PODEM SER INSTANCIADAS
+
+garante Herança total: Apenas objetos sublacasses não abstratas podem ser instanciadas mas não a 
+superclasse abstrata
+
+É utilizada para não ter repetição de atributos que poderá gerar erros e também por causa do polimorfismo
+Para permitir tratar todo o tipo de classe de forma uniforme. Por exemplo todos os tipos de contas poderá
+ser colocada em um mesma coleção.
+
+
+Métodos Abstratos 
+
+São métodos que não possuem implementação
+
+Métodos precisam ser abstratos quando a classe é genérica de mais para conter sua implementação 
+(Exemplo no execicio MetodoAbstrato (Github/revisãoPoo/exercicios/MetodoAbstrato) )
+Utilizamos isso por causa do polimorfismo, para poder ter reuso
+
+Caso a classe possua pelo menos um método abstrato, então a classe tambem deverá ser abstrata
+
